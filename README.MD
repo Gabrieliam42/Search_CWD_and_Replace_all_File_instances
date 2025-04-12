@@ -1,24 +1,22 @@
-## Title
+## Search CWD and Replace all File copies
 
 
 
-##### This script has been tested on the Windows environment.
+##### This script has been tested on the Windows environment. It searches in the selected folder for all copies of the specified file and it replaces it with another version of that file(typically you would select the latest version of the file).
 #
 
 ##### Prerequisites:
 
 - Python 3.10 or later
-- Docker
+
 #
 
 
 
 ##### Requirements:
 
-- `There are no external dependencies are required for this script. It uses only Python's standard libraries.`
-- `torch==2.4.1+cu124`
-- `torchvision==0.19.1+cu124`
-- `torchaudio==2.4.1+cu124`
+- `Tkinter`
+
 
 
 
