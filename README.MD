@@ -1,4 +1,4 @@
-## Search CWD and Replace all File instances
+## Search the current working directory and Replace all File instances
 
 
 
