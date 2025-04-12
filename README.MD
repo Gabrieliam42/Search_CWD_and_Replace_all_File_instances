@@ -1,9 +1,9 @@
-## Search CWD and Replace all File copies
+## Search CWD and Replace all File instances
 
 
 
 ##### This script has been tested on the Windows environment.
-It searches in the selected folder for all copies of the specified file and it replaces it with another version of that file(typically you would select the latest version of the file).
+It searches the whole selected folder and subfolders for all instances of the specified file (all files with the same filename) and it replaces those files with a selected version of that file (typically you would select the latest version of the file in order to update all copies of the file to the latest version).
 #
 
 ##### Prerequisites:
