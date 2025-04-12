@@ -33,5 +33,6 @@ It searches the whole selected folder and subfolders for all instances of the sp
 
 
 
+
 **Script Developer:** Gabriel Mihai Sandu  
 **GitHub Profile:** [https://github.com/Gabrieliam42](https://github.com/Gabrieliam42)
