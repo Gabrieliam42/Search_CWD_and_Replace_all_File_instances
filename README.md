@@ -4,6 +4,7 @@
 
 ##### This script has been tested on the Windows environment.
 It searches the whole selected folder and its subfolders for all instances of the specified file (all files with the same filename) and it replaces all those files with a selected version of that file (typically you would select the latest version of the file in order to update all other versions of the file to the latest version).
+##### You can select a whole partition as the current working directory.
 #
 
 ##### Prerequisites:
